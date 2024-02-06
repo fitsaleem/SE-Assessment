@@ -103,7 +103,7 @@ Please see the [CHANGELOG](CHANGELOG.md) for a detailed history of changes.
 
 ## Badges
 
-[![Build Status](https://travis-ci.org/yourusername/yourrepository.svg?branch=master)](https://travis-ci.org/yourusername/yourrepository)
-[![Version](https://img.shields.io/github/release/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/releases)
-[![License](https://img.shields.io/github/license/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/fitsaleem/yourrepository.svg?branch=master)](https://travis-ci.org/fitsaleem/yourrepository)
+[![Version](https://img.shields.io/github/release/fitsaleem/yourrepository.svg)](https://github.com/fitsaleem/yourrepository/releases)
+[![License](https://img.shields.io/github/license/fitsaleem/yourrepository.svg)](https://github.com/fitsaleem/yourrepository/blob/master/LICENSE)
 
