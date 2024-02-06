@@ -90,8 +90,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-- [Your Name](#)
-- [Other Contributors](#)
+- [Saleem Raza](#)
+- [fitcodding.com](#)
 
 ## Tests
 
